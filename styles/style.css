@@ -5,18 +5,14 @@
 }
 
 body {
-<<<<<<< Updated upstream
+
     background-color: rgb(146, 141, 72);
     color: rgb(255, 255, 255);
     text-align: center;
-=======
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: auto;
     background-color: rgba(146, 141, 72, 0.493);
-    /* text-align: center; */
->>>>>>> Stashed changes
-
 }
 
 header {
