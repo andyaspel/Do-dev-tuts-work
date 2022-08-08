@@ -5,9 +5,30 @@
 }
 
 body {
-    background-color: rgba(146, 141, 72, 0.2);
+    <<<<<<< Updated upstream background-color: rgb(146, 141, 72);
+    color: rgb(255, 255, 255);
     text-align: center;
+    =======display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: auto;
+    background-color: rgba(146, 141, 72, 0.493);
+    /* text-align: center; */
+    >>>>>>>Stashed changes
+}
 
+header {
+    grid-column: span all;
+    grid-row: 2fr;
+}
+
+main {
+    grid-column: span all;
+    grid-row: 8fr;
+}
+
+footer {
+    grid-column: span all;
+    grid-row: 8fr;
 }
 
 h1 {
