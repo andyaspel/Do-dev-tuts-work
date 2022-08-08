@@ -1,3 +1,22 @@
 body {
     background-color: rgba(72, 111, 146, 0.2);
 }
+
+img {
+    width: 300px;
+    height: 100px;
+}
+
+a {
+    border: none !important;
+    background-color: transparent !important;
+    width: fit-content;
+}
+
+footer a {
+    color: darkblue !important;
+}
+
+ul {
+    text-align: center !important;
+}
