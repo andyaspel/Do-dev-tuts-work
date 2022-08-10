@@ -1,24 +1,24 @@
 body {
-    background-color: rgba(146, 72, 84, 0.2);
+  background-color: rgba(146, 72, 84, 0.2);
 }
 
 section {
-    display: flex;
-    /* flex-direction: column; */
-    justify-content: space-around;
-    align-items: center;
-    gap: 1em;
-    flex-wrap: wrap;
-    width: 100%;
-    border: none !important;
-    background-color: transparent !important;
-    width: fit-content;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-around;
+  align-items: center;
+  gap: 1em;
+  flex-wrap: wrap;
+  width: 100%;
+  border: none !important;
+  background-color: transparent !important;
+  /* width: fit-content; */
 }
 
 footer a {
-    color: darkblue !important;
+  color: darkblue !important;
 }
 
 ul {
-    text-align: center !important;
+  text-align: center !important;
 }
